@@ -1,6 +1,6 @@
 ## 1.0 Introduction
 
-This work presents a critique and commentary about challenges faced by individuals who have been targeted victims of ongoing nefarious misdeeds and wrongdoings, carried out by coordinated entities incubated within the Canadian public as well as private sector.
+This work presents a critique and commentary about challenges faced by individuals who have been targeted victims of ongoing nefarious misdeeds and wrongdoings, carried out by coordinated entities incubated within the Canadian public as well as private sectors.
 
 The following sections first highlight the type of hatred and xenophobia baked into Canadian immigration policies and legislature that happen to be identical to the core tenets of Nazi and white-supremecist idealogies. 
 
