@@ -7,7 +7,7 @@ This digital repository along with its contents, placed in the public domain, is
 Referenced materials, quotations, and pieces of art from other sources included within this composition have been curated by me under the principle of "fair use" as a whistle-blower for literary and documentary purposes.  
 
 ## Note:
-Righ-click on links for option to open them in new tab or window of your browser. 
+Righ-click on links for an option to open them within a new tab, or a new window, of your browser. 
 
 ## Table of Contents
 
