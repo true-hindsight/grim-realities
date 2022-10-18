@@ -31,4 +31,4 @@ The factors preventing such habitual serial crimes from being subject to any sta
 With these appropriately established levels of awareness and the requisite pieces of introductory knowledge, we can now proceed to the subsequent sections of this documentation to excavate the details of the situation at hand.
 
 
-<p align="center"> --- End of Part 1 --- </p>
+<p align="center"> *** End of Part 1 *** </p>
