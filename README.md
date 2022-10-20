@@ -14,4 +14,8 @@ Right-click on links for an option to open them within a new tab, or a new windo
 
 ## Table of Contents
 
-### [1. Introduction](https://github.com/true-hindsight/grim-realities/blob/main/introduction.md)
+- ### [1. Introduction](https://github.com/true-hindsight/grim-realities/blob/main/introduction.md)
+- ### [2. Navigating This Documentation](https://github.com/true-hindsight/grim-realities/blob/main/navigating-this-gitrepo.md#20-navigating-this-documentation)
+    - ### [2.1 The Clandestine Motives of Usurpers Within Canadian Institutions](https://github.com/true-hindsight/grim-realities/blob/main/navigating-this-gitrepo.md#21-the-clandestine-motives-of-usurpers-within-canadian-institutions)
+    - ### [2.2 The Nefarious Methodologies Used by Corrupt Institutions](https://github.com/true-hindsight/grim-realities/blob/main/navigating-this-gitrepo.md#22-the-nefarious-methodologies-used-by-corrupt-institutions)
+    - ### [2.3 Moving Forward Towards Genuine Peace, Restoration, and Restitutions](https://github.com/true-hindsight/grim-realities/blob/main/navigating-this-gitrepo.md#23-moving-forward-towards-genuine-peace-restoration-and-restitutions)
