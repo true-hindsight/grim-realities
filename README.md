@@ -6,11 +6,11 @@ This digital repository along with its contents, placed in the public domain, is
 
 Referenced materials, quotations, and pieces of art or evidence from other sources included within this composition have been curated by me under the principle of *fair use* as a whistle-blower for literary and documentary purposes.
 
-## Thesis of This Documentation
-This documentation along with the file titled, "Grim Realities of Life in Canada" provides an exposition of facts, and evidence from lived experiences, concerning the systemic forms of repression in Canada that are still being carried out against temporary residents, foreign visitors, minority groups, non-christians, differently abled persons, and peoples of colour.
+## Abstract and Thesis of This Documentation
+This documentation along with the enclosed article titled, "Grim Realities of Life in Canada" provides an exposition of facts, and evidence from lived experiences, concerning the systemic forms of ongoing repression in Canada that are being carried out against temporary residents, foreign visitors, minority groups, non-christians, differently abled persons, and peoples of colour.
 
 ## Note:
-Right-click on links for an option to open them within a new tab, or a new window of your browser. 
+Right-click on links for an option to open them within a new tab, or a new window of your browser.
 
 ## Table of Contents
 
