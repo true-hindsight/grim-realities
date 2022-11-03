@@ -19,4 +19,4 @@ Right-click on links for an option to open them within a new tab, or a new windo
     - ### [2.1 The Clandestine Motives of Usurpers Within Canadian Institutions](https://github.com/true-hindsight/grim-realities/blob/main/navigating-this-gitrepo.md#21-the-clandestine-motives-of-usurpers-within-canadian-institutions)
     - ### [2.2 The Nefarious Methodologies Used by Corrupt Institutions](https://github.com/true-hindsight/grim-realities/blob/main/navigating-this-gitrepo.md#22-the-nefarious-methodologies-used-by-corrupt-institutions)
     - ### [2.3 Moving Forward Towards Genuine Peace, Restoration, and Restitutions](https://github.com/true-hindsight/grim-realities/blob/main/navigating-this-gitrepo.md#23-moving-forward-towards-genuine-peace-restoration-and-restitutions)
-- ### [3. Indefensibility of State-sponsored Violations](https://github.com/true-hindsight/grim-realities/blob/main/indefensible-state-sponsored-violence.md)
+- ### [3. Indefensibility of State-sponsored Violations](https://github.com/true-hindsight/grim-realities/blob/main/indefensible-state-sponsored-violence.md#30-indefensibility-of-state-sponsored-violations)
