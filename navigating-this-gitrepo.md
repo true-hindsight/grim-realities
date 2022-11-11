@@ -80,7 +80,7 @@ An individual's right to protect their life, dignity and honour takes primacy an
 
 ### 2.4 Introduction to Special Report 2022-11-11-1
 
-The file named["protected_file-special_report-2022_11_11-1.pdf.pgp"](https://github.com/true-hindsight/grim-realities/blob/main/protected_file-special_report-2022_11_11-1.pdf.pgp) provides details on the liabilities and culpabilities of various Canadian entities that have continued to deliberately harm newcomers, especially international students studying in Canada.
+The file named ["protected_file-special_report-2022_11_11-1.pdf.pgp"](https://github.com/true-hindsight/grim-realities/blob/main/protected_file-special_report-2022_11_11-1.pdf.pgp) provides details on the liabilities and culpabilities of various Canadian entities that have continued to deliberately harm newcomers, especially international students studying in Canada.
 
 The report is a protected file because it reveals details of named individuals who have been harmed in tragic ways by certain public and private groups in Canada.
 
