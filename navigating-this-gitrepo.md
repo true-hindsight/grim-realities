@@ -77,3 +77,5 @@ Here, it is the situation that has power via the options it presents, not me. On
 One may now want to deeply meditate on the concepts of strife and warfare from an anthropological and historical perspective, to understand how private individuals as non-state actors have had to necessarily take up defensive measures in order to ward off state-sponsored threats, abuses, and murderously terrorising activities. Underhanded agents directed under the aegis of malicious and specious authority figures need to be punished by the legal and rightful efforts of well-educated denizens of this world. 
 
 An individual's right to protect their life, dignity and honour takes primacy and becomes imperative above all other social needs when such foundational components of one's personhood are imperilled by hostile or beguiling forces. This is because without life, dignity, and honour one cannot have the basic physical and moral capacity needed to participate in any form of a legitimately organised society. 
+
+<p align="center"> --- End of Section 2 --- </p>
