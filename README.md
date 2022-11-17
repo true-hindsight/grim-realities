@@ -22,4 +22,4 @@ Right-click on links for an option to open them within a new tab, or a new windo
 - ### [3. Indefensibility of State-sponsored Violations](https://github.com/true-hindsight/grim-realities/blob/main/indefensible-state-sponsored-violence.md#30-indefensibility-of-state-sponsored-violations)
 - ### [4. Debugging The Full-stack of Institutionalised Faults and Errors](https://github.com/true-hindsight/grim-realities/blob/main/debugging-the-full-stack.md#40-debugging-the-full-stack-of-institutionalised-faults-and-errors)
 - ### [5. The Acquired Rights for Justified Retaliatory Actions](https://github.com/true-hindsight/grim-realities/blob/main/acquired-rights-for-just-retaliations.md#50-the-acquired-rights-for-justified-retaliatory-actions)
-- ### [6. Introduction to Special Report 2022-11-11-1](https://github.com/true-hindsight/grim-realities/blob/main/navigating-this-gitrepo.md#24-introduction-to-special-report-2022-11-11-1)
+- ### [6. Introduction to Special Report 2022-11-11-1](https://github.com/true-hindsight/grim-realities/blob/main/special-report-2022-11-11-1.md#6-introduction-to-special-report-2022-11-11-1)
