@@ -1,4 +1,4 @@
-### 4.0 Debugging The Full-stack of Institutionalised Faults and Errors
+## 4.0 Debugging The Full-stack of Institutionalised Faults and Errors
 
 Knowledge chooses where it must reside. This set of knowledge has chosen to reside within the current git repository among the many version-controlled hubs of codebases for systems engineering and computer programming designs.
 
