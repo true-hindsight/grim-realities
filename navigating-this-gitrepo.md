@@ -2,25 +2,25 @@
 
 The repository addressed via the URL: https://github.com/true-hindsight/grim-realities contains the file titled, 
 
-> "protected_file-grim_realities_of_life_in_canada-2022_11_04.pdf.pgp"
+> "protected_file-grim_realities_of_life_in_canada-2022_12_05.pdf.pgp"
 
 The above mentioned file is referred to as "The File." 
 
 This section explains how to parse The File, provided that the reader has the proper key to open it. The reader might have even chosen to break into it, which is a rather impolite and indecent thing to do, especially when all they needed to do was to formally ask for its key. 
 
-The File contains names of individuals from various Canadian agencies along with tangible pieces of evidence of the range of statutory crimes and violations committed by them — against me and other individuals they have persistently targeted out of discriminatory prejudices. The lasting and continued ill effects of those grievous transgressions is also highlighted in each section of The File. 
+The File contains names of individuals from various Canadian agencies along with tangible pieces of evidence concerning the range of statutory crimes and violations committed by them — against me and other individuals they have persistently targeted out of discriminatory prejudices. The lasting and continued ill effects of those grievous transgressions is also highlighted in each section of The File. 
 
 In going through this overall documentation, the reader can remember that usually in any type of scientific literature: the abstract, the conclusion, and the figures tend to provide the most essential pieces of knowledge. So one may find it beneficial to first navigate to those areas of The File, and then skim through its remaining text and expositions. Also, if a particular topic or concept in the given text seems intriguing, one can find more context and meaning surrounding that topic or precept — by reading the material immediately before and after the section it occurs in, and by independently researching its veracity. 
 
-The reader can then navigate to the relevant portion of The File, in any order, using its table of contents, to skim through topics that might be of particular interest to their organisation.   
+The reader can then navigate to the relevant portion of The File, in any order, using its table of contents, to skim through topics that might be of particular interest to the reader's organisation.   
 
 ### 2.1 The Clandestine Motives of Usurpers Within Canadian Institutions
 
-The first thing one could do is to scroll to the very end of The File and read *"Appendix VI, items e.2.xxiii to e.2.xxviii, in Section VI.1, from pages 224 to 232."* 
+The first thing one could do is to scroll to the very end of The File and read *"Appendix VI, items e.2.xxii to e.2.xxviii, in Section VI.1, from pages 226 to 236."* 
 
 That portion of The File explains how systemic racism has been incorporated into the core principles and policies of Canadian society since the very inception of the Canadian Constitution. The indelible evidence of Canada's genocidal past is plainly available for the reader to note and comprehend. The miserably unfortunate truth is that the normalised genocidal crimes of past leadership have corrupted and thoroughly contaminated the views, beliefs, and activities of subsequent leaders of Canada's societal systems. The corrupting influence of Edwardian and Victorian era racists has continued to ruin human ecology. And whenever it is thought that such vile corruption has finally been put to an end, it is discovered that those corrupt elements were made clandestine by merely burying them deeper into the foundations of public service systems. 
 
-Next, the reader can navigate to *"Appendix VI, item e.2.xxix in Section VI.1, on page 232"* of The File to gain an understanding of how the judiciary was corrupted via the concept of "The Justice of The Peace" to promote the British and Germanic Peonage System. It is evident that the Canadian judiciary has remained an unyielding force for protecting slavery and serfdom, by prejudiciously prosecuting marginalized groups of people in Canada. Is it even surprising or at all unexpected that such illegitimate practices have consequently made the Canadian judiciary disdain worthy? How can one not have contempt for such a loathsome and condemnable system that propagates repression and suppression through normalised and systematised bigotry via its statutory laws? 
+Next, the reader can navigate to *"Appendix VI, item e.2.xxix in Section VI.1, on page 236"* of The File to gain an understanding of how the judiciary was corrupted via the concept of "The Justice of The Peace" to promote the British and Germanic Peonage System. It is evident that the Canadian judiciary has remained an unyielding force for protecting slavery and serfdom, by prejudiciously prosecuting marginalized groups of people in Canada. Is it even surprising or at all unexpected that such illegitimate practices have consequently made the Canadian judiciary disdain worthy? How can one not have contempt for such a loathsome and condemnable system that propagates repression and suppression through normalised and systematised bigotry via its statutory laws? 
 
 It is also plainly evident that supremacists have usurped positions of authority and corrupted august institutions within Canada by copying the examples of European, British, and American imperialists. Those illegitimate and unethical usurpers have been able to then cause planned as well as coordinated intergenerational harm to groups they consider racially inferior or undesirable, by abusing foundational and fiduciary societal structures via policy and protocol based institutionalised mechanisms.    
 
