@@ -10,7 +10,9 @@ Referenced materials, quotations, and pieces of art or evidence from other sourc
 This documentation along with the enclosed article titled, "Grim Realities of Life in Canada" provides an exposition of facts, and evidence from lived experiences, concerning the systemic forms of ongoing repression in Canada that are being carried out against temporary residents, foreign visitors, minority groups, non-christians, differently abled persons, and peoples of colour.
 
 ## Note:
-Right-click on links for an option to open them within a new tab, or a new window of your browser.
+- This is a Work In Progress (WIP)
+
+- Please right-click on links for an option to open them within a new tab, or a new window of your browser.
 
 ## Table of Contents
 
