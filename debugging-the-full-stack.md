@@ -33,7 +33,7 @@ It is plainly evident and obvious that such deleterious actions of authorised of
 
 
 <p align="center">
-  <img width="75%" src="/reference_image/routers-clear_software.png"></img>
+  <img width="75%" src="/reference_images/routers-clear_software.png"></img>
 </p>
 
 
