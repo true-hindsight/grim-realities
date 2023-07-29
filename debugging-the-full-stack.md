@@ -2,7 +2,7 @@
 
 >Knowledge chooses where it must reside. This set of knowledge has chosen to reside within the current git repository, among several version-controlled hubs of codebase, and projects for systems engineering and computer programming.
 
-This part is primarily in reference to violations committed by persons whose names are recorded in *"Section 12 of The File."* The specifics of when and how certain Canadian state-sponsored bad-actors, committed particular acts of discriminatory violations, is also detailed in *The File.* How their habitual pattern of abusing the authority and powers vested in their offices, impacts the public in Kitchener-Waterloo Region of Ontario, Canada, is also explained therein. 
+This part is primarily in reference to violations committed by persons whose names are recorded in *["Section 12 of The File."](https://github.com/true-hindsight/grim-realities/blob/main/disclosed/git_repo-section_12-grim_realities_of_life_in_canada-2023_02_05.pdf)* The specifics of when and how certain Canadian state-sponsored bad-actors, committed particular acts of discriminatory violations, is also detailed in *The File.* How their habitual pattern of abusing the authority and powers vested in their offices, impacts the public in Kitchener-Waterloo Region of Ontario, Canada, is also explained therein. 
 
 Here, I'd like to provide some more details about the tools and techniques used by a number of agencies in North America for systematically orchestrating, and automating acts of socio-economic harms, that are being carried out on a large-scale, against targetted groups of minorities within Canada.
 
