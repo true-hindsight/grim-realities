@@ -9,6 +9,8 @@ to indulge in negligence, and in decades of willful belligerence rooted in bigot
 which has continued to exacerbate the plight of refugees, immigrants, ethnic minorities, and indigenous groups of people?"
 ```
 
+<br>
+
 It isn't imprudent of me or anyone else to ask the above question. And it is certainly not grandiose of me or anyone else, to be aware and responsive to such basic questions concerning the realities of living in Canada, or in any other part of the world. Would it even take the experiences of a ten year old, to notice basic truths within the juxtaposition of a few strips of plastic money, as illustrated in Exhibit - C?
 
 <br>
@@ -61,8 +63,6 @@ More importantly, as a serious question to all those North American agents and p
 
 Or, genuinely, did my multi-cultural mannerisms cause hurtful and harmful effects to your bodily functions and to your reproductive system; with further sadistic and demeaning threats ghoulishly cast upon you to be lobotomized, so that you could then be stashed away in an asylum, where you wouldn't even be able to beg for relief through euthanasia? 
 
----
-
 ## 8.1 So What Is To Be Done Next 
 
 Living within the poverty stricken doldrums of Kitchener-Waterloo Region during Covid-era, turned out to be an eye-opener for me.
@@ -104,8 +104,6 @@ Often I have almost halted completely out of pain from injuries and wounds infli
 For how long can one keep hiding from, or turning a blind eye to such genocidal atrocities being committed against humanity by the so-called vanguards of human rights and democracy?
 
 Which remaining *qibla* can one turn towards, in peace as well as in struggle, when every livable space on this earth has already been encroached upon, by surreptitious evil-doers closing in from each direction? 
-
----
 
 ## 8.2 We Can Firstly, Recapitulate 
 
