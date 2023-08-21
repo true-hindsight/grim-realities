@@ -49,7 +49,7 @@ This is why, as long as one can get internet connectivity at the curb-side, one 
 
 So does one need to have sovereignty, grand accolades, or positions of high influence and power in order to e-mail a few letters, or forward a few pamphlets? 
 
-Or does one need to possess genius level intelligence and acumen along with maverick leadership skills, to merely put out a few podcasts and songs? Just think about it, what does one need to have, in order to churn out a bunch of ["what-if scenarios"](https://github.com/callthis/status-quo/blob/main/docs/0B.md#scenario-1---arson-that-causes-extensive-wildfires) from the comfort of their armchair? Most probably just the armchair, yes? 
+Or does one need to possess genius level intelligence and acumen along with maverick leadership skills, to merely put out a few podcasts and songs? Just think about it, what does one need to have, in order to churn out a bunch of **["what-if scenarios"](https://github.com/callthis/status-quo/blob/main/docs/0B.md#scenario-1---arson-that-causes-extensive-wildfires)** from the comfort of their armchair? Most probably just the armchair, yes? 
 
 Within all such avenues of life, one does not need to be a 'jedi' grand master, or a grand vizier, or a grand anything for that matter, to march along with the days of an ordinary life. 
 
@@ -83,7 +83,7 @@ The gist of the other large volume of documentation detailing the names, affilia
 
 So now, imagine if some other military were to do the very same thing against your country, how much of your nation do you suppose would survive if such indiscriminate and automated missile strikes or bombardments were carried out incessantly, on a daily basis for months, and then on a weekly basis for years, with no end in sight? 
 
-One does not need to have Orwellian inklings, or an "overactive imagination", to understand what is in store for humanity due to issues like climate change and global refugee crises boil over. Coincidentally, those issues are getting worse, because too many groups of people with government based authorities vested upon them, to mitigate crises and prevent catastrophes, have remained simply too oblivious, ill-informed, or completely unprepared. 
+One does not need to have Orwellian inklings, or an "overactive imagination", to understand what is in store for humanity due to issues like climate change and global refugee crises boiling over. Coincidentally, those issues are getting worse, because too many groups of people with government based authorities vested upon them, to mitigate crises and prevent catastrophes, have remained simply too oblivious, ill-informed, or completely unprepared. 
 
 Worse, a sufficiently large group of government officials and public figures directly have contributed to causing those refugee crises, by actively promoting and propagating the rhetoric of "globalized just retaliations against Islamists and Islamic terror groups", using fallacious presentations given to parliaments and the public, of their respective countries. They have continued to do so, while driving their countries into ever increasing public debt, and by personally profiteering from companies like: Halliburton US, Lockheed Martin US (Skunk Works), Northrop Grumman US, Raytheon US and Canada, FLIR Canada, and BAE Systems UK. 
 
