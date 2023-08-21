@@ -35,3 +35,5 @@ This documentation along with the enclosed article titled, "Grim Realities of Li
 - ### [6. Introduction to Special Report 2022-11-11-1](https://github.com/true-hindsight/grim-realities/blob/main/intro-to-special-report-2022-11-11-1.md#6-introduction-to-special-report-2022-11-11-1)
 
 - ### [7. Styles of Genocides and Remembrance Day](https://github.com/true-hindsight/grim-realities/blob/main/styles-of-genocides-and-remembrance-day.md#7-styles-of-genocides-and-remembrance-day)
+
+- ### [8. Politically Motivated Crimes Being Committed by Nexus of Canadian Entities](https://github.com/true-hindsight/grim-realities/blob/main/disclosed/politically-motivated-crimes-being-committed-by-nexus-of-canadian-entities.md#80-politically-motivated-crimes-being-committed-by-nexus-of-canadian-entities)
