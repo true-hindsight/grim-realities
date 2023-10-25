@@ -37,3 +37,5 @@ This documentation along with the enclosed article titled, "Grim Realities of Li
 - ### [7. Styles of Genocides and Remembrance Day](https://github.com/true-hindsight/grim-realities/blob/main/styles-of-genocides-and-remembrance-day.md#7-styles-of-genocides-and-remembrance-day)
 
 - ### [8. Politically Motivated Crimes Being Committed by Nexus of Canadian Entities](https://github.com/true-hindsight/grim-realities/blob/main/disclosed/politically-motivated-crimes-being-committed-by-nexus-of-canadian-entities.md#80-politically-motivated-crimes-being-committed-by-nexus-of-canadian-entities)
+
+- ### [9. Trial and Error](https://github.com/true-hindsight/grim-realities/blob/main/trial-and-error.md#90-trial-and-error)
