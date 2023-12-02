@@ -2,9 +2,9 @@
 
 ## Copyright Notice:
 
-This digital repository along with its contents, placed in a publicly accessible domain, is a literary work of non-fiction. It is a composition developed as a mixed-media art by me, Sameer A. Khan, as its sole author. All rights to this work are hereby reserved.
+This digital repository along with its contents, placed in a publicly accessible domain, is a literary work of non-fiction. It is a composition developed as a mixed-media art by Sameer A. Khan, as its sole author. All rights to this work are hereby reserved.
 
-Referenced materials, quotations, and pieces of art or evidence from other sources included within this composition have been curated by me as a whistle-blower, under the principle of *fair use* for literary, and documentary purposes.
+Referenced materials, quotations, and pieces of art or evidence from other sources included within this composition have been curated by the author as a whistle-blower, under the principle of *fair use* for literary, and documentary purposes.
 
 ## Abstract and Thesis of This Documentation
 This documentation along with the enclosed article titled, "Grim Realities of Life in Canada" provides an exposition of facts, and evidence from lived experiences, concerning the systemic forms of ongoing repression in Canada that are being carried out against temporary residents, foreign visitors, minority groups, non-Christians, differently abled persons, and peoples of colour.
