@@ -1,0 +1,44 @@
+# Continuous Integration (CI) Actions for mirroring GitHub repo to GitLab
+#
+# References: 
+# - https://dev.to/brunorobert/github-and-gitlab-sync-44mn 
+# - https://github.com/marketplace/actions/mirror-to-gitlab-and-run-gitlab-ci 
+# - https://github.com/action-pack/gitlab-sync
+
+name: Sync to GitLab
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push events but only for the "main" branch
+  # Does not implement on delete event
+  push:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "sync"
+  sync:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    name: Sync Git Repo
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, with full fetch-depth
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      # Runs the latest yaml file  and shell command script from action-pack/gitlab-sync
+      # username is GitLab username stored in GitHub org's secrets
+      # token is obtained from GitLab repo's group and entered into GitHub org's settings as secrets
+      # Make sure url is correctly set to target repo's URL
+      - uses: action-pack/gitlab-sync@master
+        with:
+          username: ${{ secrets.GITLAB_USERNAME }}
+          token: ${{ secrets.GITLAB_SYNC_TRUE_HINDSIGHT }}
+          url: https://gitlab.com/${{ github.repository }}.git
+          
