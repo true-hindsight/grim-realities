@@ -115,14 +115,13 @@ The following series of opportunistic methods were used in committing blatant mi
 
 3. Fabricated justifications provided to a make-shift judicial authority, for detaining persons in a substitute jail within a government-supported medical facility 
 
-4. Exploiting loopholes within the judicial system that circumvent the need to provide strong
-evidence to a magistrate or a judge, for a proper arrest warrant 
+4. Exploiting loopholes within the judicial system that circumvent the need to provide strong evidence to a magistrate or a judge, for a proper arrest warrant 
 
 5. Use of coordination and communication tools for orchestrating a malicious plan 
 
 6. Use of shared databases and software with misleading subjective data and fabricated pretexts that were falsely represented as being legitimate, objective, and truthful  
 
-7. Normalized official policies among public institutions that forcefully deprive visible minorities of basic human rights to religious necessities, and of civil liberties to accessing cultural support; especially minority groups that are non-Christian are still being subjected to such state-sponsored violence in Canada 
+7. Normalized official policies among public institutions that forcefully deprive visible minorities of basic human rights to religious necessities, and of civil liberties to accessing cultural support; especially minority groups that are non-Christian are still being subjected to such state-sponsored violence in Canada (Physical evidence of violations summarized in points 1 through 7, are disclosed [here](https://github.com/true-hindsight/grim-realities/blob/main/disclosed/git_repo-section_12-grim_realities_of_life_in_canada-2023_02_05.pdf))
 
 8. Duress via the tools, policies, architectural design and layout of the detention facility
 
