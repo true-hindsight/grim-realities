@@ -1,5 +1,7 @@
 # Blowing the whistle on Canada's ongoing crimes against humanity and marginalised groups
 
+<br>
+
 <div align="center">
 
 ![GitHub release version](https://img.shields.io/github/v/release/true-hindsight/grim-realities?label=version&color=066da5) 
