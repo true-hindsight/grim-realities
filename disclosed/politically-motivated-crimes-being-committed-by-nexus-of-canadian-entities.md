@@ -47,11 +47,11 @@ However, not all parliamentarians, or persons in seats of power have been corrup
 
 This is why, as long as one can get internet connectivity at the curb-side, one can still do as much as individually possible to press a few keystrokes, or pluck a few guitar strings, or beat a few drums, like any other person busking at a street corner, to then send out a few notes, rhymes and rhythms that inspire, and *mobilize* ordinary people who are treated as a nobody. 
 
-So does one need to have sovereignty, grand accolades, or positions of high influence and power in order to e-mail a few letters, or forward a few pamphlets? 
+Now, does one need to have sovereignty, grand accolades, or positions of high influence and power, in order to e-mail a few letters, or forward a few pamphlets? 
 
-Or does one need to possess genius level intelligence and acumen along with maverick leadership skills, to merely put out a few podcasts and songs? Just think about it, what does one need to have, in order to churn out a bunch of **["what-if scenarios"](https://github.com/callthis/status-quo/blob/main/docs/0B.md#scenario-1---arson-that-causes-extensive-wildfires)** from the comfort of their armchair? Most probably just the armchair, yes? 
+Or does one need to possess genius level intelligence and acumen, along with maverick leadership skills, to merely put out a few podcasts and songs? Just think about it, what does one need to have, in order to churn out a bunch of **["what-if scenarios"](https://github.com/callthis/status-quo/blob/main/docs/0B.md#scenario-1---arson-that-causes-extensive-wildfires)** from the comfort of their armchair? Most probably just the armchair, yes? 
 
-Within all such avenues of life, one does not need to be a 'jedi' grand master, or a grand vizier, or a grand anything for that matter, to march along with the days of an ordinary life. 
+Within all such avenues of life, one does not need to be a 'jedi' grand master, or a grand vizier, or a grand anything for that matter, to march along, with the labors of an ordinary life. 
 
 >*One just needs to be free, free as in neither a surf nor a slave.* 
 
@@ -97,9 +97,9 @@ However, the aliases some of those individuals used in operating those off-shore
 
 Much more significantly, one does not need to have gut wrenching experiences from having to watch Battle Damage Assessment videos — showing young women and children being turned into mist from automated missile strikes or drone-guided attacks launched from herculean aerial gunships — to understand the horrors that recent wars have brought upon every nation on this earth. 
 
-So have I been sufficiently aware about the nature and degree of challenges in living for a cause that can lessen the burden of perhaps just a few of those displaced survivors? Not at every moment.
+So, have I been sufficiently aware about the nature and degree of challenges in living for a cause that can lessen the burden of perhaps just a few of those displaced survivors? Not at every moment.
 
-Often I have almost halted completely out of pain from injuries and wounds inflicted on me, or from dismay in recognizing the global-scale situation all of humanity on this planet is currently encumbered with. 
+Often I have almost halted completely out of pain from injuries and wounds inflicted on me, or from dismay in recognizing the global-scale situation all of humanity on this planet is currently encumbered with.
 
 For how long can one keep hiding from, or turning a blind eye to such genocidal atrocities being committed against humanity by the so-called vanguards of human rights and democracy?
 
