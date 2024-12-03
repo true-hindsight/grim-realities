@@ -46,3 +46,5 @@ This documentation along with the enclosed article titled, "Grim Realities of Li
 - ### [8. Politically Motivated Crimes Being Committed by Nexus of Canadian Entities](https://github.com/true-hindsight/grim-realities/blob/main/disclosed/politically-motivated-crimes-being-committed-by-nexus-of-canadian-entities.md#80-politically-motivated-crimes-being-committed-by-nexus-of-canadian-entities)
 
 - ### [9. Trial and Error](https://github.com/true-hindsight/grim-realities/blob/main/trial-and-error.md#90-trial-and-error)
+
+- ### [10. Insidiousness of Canadian State-Sponsored Violence](https://github.com/true-hindsight/grim-realities/blob/main/insidiousness-of-canadian-state-sponsored-violence.md)
